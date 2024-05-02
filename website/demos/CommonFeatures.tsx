@@ -83,7 +83,7 @@ function getColumns(
       frozen: true,
       resizable: false,
       renderSummaryCell() {
-        return <strong>Total</strong>;
+        return <strong>Totaljjjj</strong>;
       }
     },
     {
